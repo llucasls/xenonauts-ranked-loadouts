@@ -1,0 +1,4 @@
+- Fix whitespace:
+  - the whitespace around text nodes break the game;
+  - edit `triade` package directly;
+  - use the `xml.dom` module.

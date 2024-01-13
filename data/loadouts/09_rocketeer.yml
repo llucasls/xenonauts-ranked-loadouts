@@ -1,0 +1,40 @@
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.RRocketeer
+      - tag: Image
+        text: uitextures/roles/rocket
+      - tag: Armour
+        text: armour.basic
+      - tag: RightHand
+        text: weapon.rocketlauncher
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.rocket.frag
+          - tag: Point
+            text: 0,0
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.rocket.frag
+          - tag: Point
+            text: 0,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.rocket.frag
+          - tag: Point
+            text: 0,2
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.rocket.frag
+          - tag: Point
+            text: 0,3
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.rocket.frag
+          - tag: Point
+            text: 0,4

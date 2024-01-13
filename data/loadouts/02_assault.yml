@@ -1,0 +1,232 @@
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Shield
+      - tag: Image
+        text: uitextures/roles/assault
+      - tag: Armour
+        text: armour.basic
+      - tag: RightHand
+        text: weapon.shotgun
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.shotgun
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.shotgun
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.shotgun
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.shotgun
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Rocketeer
+      - tag: Image
+        text: uitextures/roles/assault
+      - tag: Armour
+        text: armour.jackal
+      - tag: RightHand
+        text: weapon.lasercarbine
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Specialist
+      - tag: Image
+        text: uitextures/roles/assault
+      - tag: Armour
+        text: armour.wolf
+      - tag: RightHand
+        text: weapon.plasmacarbine
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Ex.Assault
+      - tag: Image
+        text: uitextures/roles/assault
+      - tag: Armour
+        text: armour.sentinel
+      - tag: RightHand
+        text: weapon.MAGcarbine
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1

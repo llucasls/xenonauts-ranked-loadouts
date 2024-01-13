@@ -1,0 +1,5 @@
+vanilla*
+__pycache__/
+loadouts.xml
+.venv/
+dist/

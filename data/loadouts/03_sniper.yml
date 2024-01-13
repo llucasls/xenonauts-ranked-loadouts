@@ -1,0 +1,160 @@
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Rk.Sniper
+      - tag: Image
+        text: uitextures/roles/sniper
+      - tag: Armour
+        text: armour.basic
+      - tag: RightHand
+        text: weapon.sniper
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.sniper
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.sniper
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.sniper
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.sniper
+          - tag: Point
+            text: 2,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.grenade.medipack
+          - tag: Point
+            text: 0,0
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Jr.Sniper
+      - tag: Image
+        text: uitextures/roles/sniper
+      - tag: Armour
+        text: armour.jackal
+      - tag: RightHand
+        text: weapon.laserprecision
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.grenade.medipack
+          - tag: Point
+            text: 0,0
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Sr.Sniper
+      - tag: Image
+        text: uitextures/roles/sniper
+      - tag: Armour
+        text: armour.buzzard
+      - tag: RightHand
+        text: weapon.plasmaprecision
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.grenade.medipack
+          - tag: Point
+            text: 0,0
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Ex.Sniper
+      - tag: Image
+        text: uitextures/roles/sniper
+      - tag: Armour
+        text: armour.sentinel
+      - tag: RightHand
+        text: weapon.MAGprecision
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.grenade.medipack
+          - tag: Point
+            text: 0,0

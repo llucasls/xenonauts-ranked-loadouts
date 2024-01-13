@@ -1,0 +1,296 @@
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Rifleman
+      - tag: Image
+        text: uitextures/roles/square
+      - tag: Armour
+        text: armour.basic
+      - tag: RightHand
+        text: weapon.rifle
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.smoke
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.smoke
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.flashbang
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.flashbang
+          - tag: Point
+            text: 4,1
+      - tag: BackpackItem
+        children:
+          - tag: Name
+            text: weapon.grenade.medipack
+          - tag: Point
+            text: 0,0
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Assault
+      - tag: Image
+        text: uitextures/roles/rifleman
+      - tag: Armour
+        text: armour.basic
+      - tag: RightHand
+        text: weapon.rifle
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.ballistic.rifle
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Sniper
+      - tag: Image
+        text: uitextures/roles/rifleman
+      - tag: Armour
+        text: armour.jackal
+      - tag: RightHand
+        text: weapon.laserrifle
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.laser.lasercell
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.HeavyWeapons
+      - tag: Image
+        text: uitextures/roles/rifleman
+      - tag: Armour
+        text: armour.wolf
+      - tag: RightHand
+        text: weapon.plasmarifle
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.plasma.plasmacell
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1
+  - tag: Loadout
+    children:
+      - tag: Name
+        text: SoldierRoles.Scout
+      - tag: Image
+        text: uitextures/roles/rifleman
+      - tag: Armour
+        text: armour.sentinel
+      - tag: RightHand
+        text: weapon.MAGrifle
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 0,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 1,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: ammo.MAG.MAGclip
+          - tag: Point
+            text: 2,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 3,1
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,0
+      - tag: BeltItem
+        children:
+          - tag: Name
+            text: weapon.grenade.frag
+          - tag: Point
+            text: 4,1

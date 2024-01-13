@@ -35,6 +35,9 @@ $(OUTPUT_DIR): | dist
 dist:
 	mkdir -p dist
 
-.PHONY: all
+clean:
+	rm -f loadouts.xml
+
+.PHONY: all install link unlink clean
 
 .SILENT: $(VENV) loadouts.xml

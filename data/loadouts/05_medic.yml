@@ -1,264 +1,356 @@
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Rk.Medic
-      - tag: Image
-        text: uitextures/roles/medic
-      - tag: Armour
-        text: armour.basic
-      - tag: RightHand
-        text: weapon.pistol
-      - tag: LeftHand
-        text: weapon.grenade.medipack
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.pistol
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.pistol
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.pistol
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.pistol
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Jr.Medic
-      - tag: Image
-        text: uitextures/roles/medic
-      - tag: Armour
-        text: armour.jackal
-      - tag: RightHand
-        text: weapon.laserpistol
-      - tag: LeftHand
-        text: weapon.grenade.medipack
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Sr.Medic
-      - tag: Image
-        text: uitextures/roles/medic
-      - tag: Armour
-        text: armour.buzzard
-      - tag: RightHand
-        text: weapon.plasmapistol
-      - tag: LeftHand
-        text: weapon.grenade.medipack
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Ex.Medic
-      - tag: Image
-        text: uitextures/roles/medic
-      - tag: Armour
-        text: armour.sentinel
-      - tag: RightHand
-        text: weapon.MAGpistol
-      - tag: LeftHand
-        text: weapon.grenade.medipack
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: weapon.grenade.smoke
-          - tag: Point
-            text: 4,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Rk.Medic
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/medic
+      - tag_name: Armour
+        child_nodes:
+          - armour.basic
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.pistol
+      - tag_name: LeftHand
+        child_nodes:
+          - weapon.grenade.medipack
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.pistol
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.pistol
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.pistol
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.pistol
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Jr.Medic
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/medic
+      - tag_name: Armour
+        child_nodes:
+          - armour.jackal
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.laserpistol
+      - tag_name: LeftHand
+        child_nodes:
+          - weapon.grenade.medipack
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Sr.Medic
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/medic
+      - tag_name: Armour
+        child_nodes:
+          - armour.buzzard
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.plasmapistol
+      - tag_name: LeftHand
+        child_nodes:
+          - weapon.grenade.medipack
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Ex.Medic
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/medic
+      - tag_name: Armour
+        child_nodes:
+          - armour.sentinel
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.MAGpistol
+      - tag_name: LeftHand
+        child_nodes:
+          - weapon.grenade.medipack
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.smoke
+          - tag_name: Point
+            child_nodes:
+              - 4,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0

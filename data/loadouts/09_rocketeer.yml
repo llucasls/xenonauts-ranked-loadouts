@@ -1,40 +1,54 @@
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.RRocketeer
-      - tag: Image
-        text: uitextures/roles/rocket
-      - tag: Armour
-        text: armour.basic
-      - tag: RightHand
-        text: weapon.rocketlauncher
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.rocket.frag
-          - tag: Point
-            text: 0,0
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.rocket.frag
-          - tag: Point
-            text: 0,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.rocket.frag
-          - tag: Point
-            text: 0,2
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.rocket.frag
-          - tag: Point
-            text: 0,3
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.rocket.frag
-          - tag: Point
-            text: 0,4
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.RRocketeer
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/rocket
+      - tag_name: Armour
+        child_nodes:
+          - armour.basic
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.rocketlauncher
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.rocket.frag
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.rocket.frag
+          - tag_name: Point
+            child_nodes:
+              - 0,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.rocket.frag
+          - tag_name: Point
+            child_nodes:
+              - 0,2
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.rocket.frag
+          - tag_name: Point
+            child_nodes:
+              - 0,3
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.rocket.frag
+          - tag_name: Point
+            child_nodes:
+              - 0,4

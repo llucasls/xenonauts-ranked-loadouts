@@ -1,190 +1,256 @@
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Rk.Heavy
-      - tag: Image
-        text: uitextures/roles/heavy
-      - tag: Armour
-        text: armour.basic
-      - tag: RightHand
-        text: weapon.machinegun
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.machinegun
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.machinegun
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.machinegun
-          - tag: Point
-            text: 4,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Jr.Heavy
-      - tag: Image
-        text: uitextures/roles/heavy
-      - tag: Armour
-        text: armour.jackal
-      - tag: RightHand
-        text: weapon.scatterlaser
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 4,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Sr.Heavy
-      - tag: Image
-        text: uitextures/roles/heavy
-      - tag: Armour
-        text: armour.wolf
-      - tag: RightHand
-        text: weapon.plasmacaster
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 4,1
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Ex.Heavy
-      - tag: Image
-        text: uitextures/roles/heavy
-      - tag: Armour
-        text: armour.predator
-      - tag: RightHand
-        text: weapon.MAGSTORM
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 3,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 3,1
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 4,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 4,1
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Rk.Heavy
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/heavy
+      - tag_name: Armour
+        child_nodes:
+          - armour.basic
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.machinegun
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.machinegun
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.machinegun
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.machinegun
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Jr.Heavy
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/heavy
+      - tag_name: Armour
+        child_nodes:
+          - armour.jackal
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.scatterlaser
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Sr.Heavy
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/heavy
+      - tag_name: Armour
+        child_nodes:
+          - armour.wolf
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.plasmacaster
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 4,1
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Ex.Heavy
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/heavy
+      - tag_name: Armour
+        child_nodes:
+          - armour.predator
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.MAGSTORM
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 3,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 3,1
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 4,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 4,1

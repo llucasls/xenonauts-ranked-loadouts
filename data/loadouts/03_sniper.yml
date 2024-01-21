@@ -1,160 +1,216 @@
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Rk.Sniper
-      - tag: Image
-        text: uitextures/roles/sniper
-      - tag: Armour
-        text: armour.basic
-      - tag: RightHand
-        text: weapon.sniper
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.sniper
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.sniper
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.sniper
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.ballistic.sniper
-          - tag: Point
-            text: 2,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Jr.Sniper
-      - tag: Image
-        text: uitextures/roles/sniper
-      - tag: Armour
-        text: armour.jackal
-      - tag: RightHand
-        text: weapon.laserprecision
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.laser.lasercell
-          - tag: Point
-            text: 2,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Sr.Sniper
-      - tag: Image
-        text: uitextures/roles/sniper
-      - tag: Armour
-        text: armour.buzzard
-      - tag: RightHand
-        text: weapon.plasmaprecision
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.plasma.plasmacell
-          - tag: Point
-            text: 2,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
-  - tag: Loadout
-    children:
-      - tag: Name
-        text: SoldierRoles.Ex.Sniper
-      - tag: Image
-        text: uitextures/roles/sniper
-      - tag: Armour
-        text: armour.sentinel
-      - tag: RightHand
-        text: weapon.MAGprecision
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 0,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 1,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,0
-      - tag: BeltItem
-        children:
-          - tag: Name
-            text: ammo.MAG.MAGclip
-          - tag: Point
-            text: 2,1
-      - tag: BackpackItem
-        children:
-          - tag: Name
-            text: weapon.grenade.medipack
-          - tag: Point
-            text: 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Rk.Sniper
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/sniper
+      - tag_name: Armour
+        child_nodes:
+          - armour.basic
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.sniper
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.sniper
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.sniper
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.sniper
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.ballistic.sniper
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Jr.Sniper
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/sniper
+      - tag_name: Armour
+        child_nodes:
+          - armour.jackal
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.laserprecision
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.laser.lasercell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Sr.Sniper
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/sniper
+      - tag_name: Armour
+        child_nodes:
+          - armour.buzzard
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.plasmaprecision
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.plasma.plasmacell
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+  - tag_name: Loadout
+    child_nodes:
+      - tag_name: Name
+        child_nodes:
+          - SoldierRoles.Ex.Sniper
+      - tag_name: Image
+        child_nodes:
+          - uitextures/roles/sniper
+      - tag_name: Armour
+        child_nodes:
+          - armour.sentinel
+      - tag_name: RightHand
+        child_nodes:
+          - weapon.MAGprecision
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 0,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 1,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,0
+      - tag_name: BeltItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - ammo.MAG.MAGclip
+          - tag_name: Point
+            child_nodes:
+              - 2,1
+      - tag_name: BackpackItem
+        child_nodes:
+          - tag_name: Name
+            child_nodes:
+              - weapon.grenade.medipack
+          - tag_name: Point
+            child_nodes:
+              - 0,0

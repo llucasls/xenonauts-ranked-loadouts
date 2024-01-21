@@ -1,4 +1,4 @@
-tag: Loadouts
+tag_name: Loadouts
 attributes:
   MODMERGE: insertreplace
-children:
+child_nodes:

@@ -27,7 +27,7 @@ loadouts.xml: data/loadouts/*.yml | $(VENV)
 link: $(OUTPUT_DIR)
 
 unlink:
-	if test -d "$(OUTPUT_DIR)"; then unlink "$(OUTPUT_DIR)"; fi
+	if test -L "$(OUTPUT_DIR)"; then unlink "$(OUTPUT_DIR)"; fi
 
 $(OUTPUT_DIR): | dist
 	if test ! -e "$@"; then ln -s "$(CURDIR)/dist" "$@"; fi
